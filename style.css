@@ -1,0 +1,151 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.entire_container{
+    max-width:970px;
+    height: 1000px;
+    margin:0px auto;
+}
+.header{
+    height:11%;
+    background-color:blue;
+}
+.navigation{
+    width:30%;
+    height:60%;
+    display:inline-block;
+    padding-top:20px;
+    margin-right:15px;
+}
+.main_content{
+    width:68%;
+    vertical-align:top;
+    display:inline-block;
+}
+#earth{
+    position:absolute;
+    width:75px;
+    margin:2px;
+}
+.title{
+    background-color:white;
+    height:55%;
+    line-height:100%;
+    position: relative;
+}
+#title_content{
+  position:absolute;
+  margin-left:80px;
+  bottom:9px;
+  font-size:xx-large;
+}
+#sub_title{
+  margin-top:9px;
+  margin-left:10px;
+  color:white;
+}
+.navi_top{
+    height:45%;
+    border-bottom:2px solid grey;
+}
+#navi_title{
+    margin-bottom:20px;
+}
+#navi_content{
+    margin-bottom:40px; 
+}
+.navi_button{
+    width:100%;
+    height:17%;
+    margin-bottom:1px;
+    background-color:blue;
+    color:white;
+    border-radius:5px;
+}
+#more{
+    background-color:orange;
+}
+.navi_buttom{
+    margin-top:30px;
+    height:60%;
+    background-image:url("images/ad_background.png")
+}
+#title_of_pic{
+    color:white;
+    text-align:center;
+    padding-top:30px
+}
+#ninja{
+    width:130px;
+    display:block;
+    margin:0 auto;
+    margin-bottom:20px;
+}
+#learn{ 
+    width:85%;
+    height:10%;
+    background-color:#03A9F4;
+    color:white;
+    border-radius:5px;
+    margin:0 auto;
+    display:block;
+}
+.main_top{
+  height:30%;
+  border-bottom:2px solid grey;
+  padding:5px;
+}
+#home{
+  width:15px;
+  vertical-align:top;
+}
+#phone{
+  width:45px;
+}
+.contact_info{
+  width:115px;
+  display:inline-block;
+}
+.contact{
+  text-align:right;
+}
+.top_titel{
+  vertical-align:top;
+  margin-right:430px;
+}
+.content{
+  line-height:170%;
+  margin-bottom:20px;
+}
+.title_highlight{
+  color:#3F51B5;
+}
+.content_text{
+  margin-left:20px;
+}
+#model{
+  display:block;
+  width:50%;
+  margin:0 auto;
+  margin-bottom:30px;
+}
+.main_forth{
+  border:2px solid #2196F3;
+  padding:10px;
+}
+#html{
+  width:20%;
+  vertical-align:top;
+}
+.last_content{
+  width:79%;
+  display:inline-block;
+}
+.time{
+  color:grey;
+}
+#tel{
+  font-size:larger;
+  color:#2196F3;
+}
